@@ -1,4 +1,4 @@
-# ⏰ In Search of Lost Time @ Uchicago - an Unconventional Clock
+# In Search of Lost Time @ Uchicago - an Unconventional Clock
 
 ## 🌱 Quick Start
 Go [here](https://hi-rachelliu.github.io/live_clock/) for a live version of the rendered sketch, hosted on Github pages.
